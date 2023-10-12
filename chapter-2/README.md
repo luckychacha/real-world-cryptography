@@ -54,3 +54,6 @@ SHA256(Cargo.toml)= e3e2bd35c7048d83966aa641f7cdc9307f149f7d917ac70cc885b2f30d4e
   - This is called the discriminant of the curve.
   - It is used to ensure that the curve is non-singular, which means that it does not have any self-intersections.
   - If the discriminant is zero, then the curve is singular and is not suitable for cryptographic use.
+- 2 * A = A + A
+  - This is called the point doubling formula.
+  - It is used to calculate the result of adding a point to itself.
