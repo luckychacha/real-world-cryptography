@@ -57,3 +57,4 @@ SHA256(Cargo.toml)= e3e2bd35c7048d83966aa641f7cdc9307f149f7d917ac70cc885b2f30d4e
 - 2 * A = A + A
   - This is called the point doubling formula.
   - It is used to calculate the result of adding a point to itself.
+  - todo:
